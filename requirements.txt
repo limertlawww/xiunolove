@@ -1,0 +1,4 @@
+transkun
+pillow
+customtkinter
+psutil

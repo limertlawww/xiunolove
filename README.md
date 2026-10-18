@@ -1,2 +1,0 @@
-# xiunolove
-tetomidi
